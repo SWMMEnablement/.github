@@ -42,4 +42,4 @@ The goal is that this work survives me. Star what helps you. That signal tells t
 
 ---
 
-*Robert (Bob) Dickinson. Autodesk Water Technologist, soon Autodesk Expert Elite. EWRI Stormwater Modeling Committee. CIMM.org SWMM5+ TAC chair.*
+*Robert (Bob) Dickinson. Autodesk Water Technologist. EWRI Stormwater Modeling Committee. CIMM.org SWMM5+ TAC chair.*
