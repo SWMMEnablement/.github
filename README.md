@@ -30,7 +30,7 @@ Every app in this org runs in a browser. No install. No license. View source on 
 - SWMM5.org (1,700+ posts, the long-running blog)
 - SWMM2000.com (the older archive)
 - @SWMM5 on YouTube (video walkthroughs)
-- LinkedIn newsletter (two-article curated bundles)
+- LinkedIn newsletter (two-article curated bundles) https://www.linkedin.com/in/robertdickinson/
 - X: [@RDickinson](https://twitter.com/RDickinson)
 - The Dickinsonre personal account (where smaller experiments live before they graduate here)
 
